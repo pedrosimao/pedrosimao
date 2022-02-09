@@ -103,6 +103,6 @@ Some code I have made public lately:
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 
-### My Visitors
+## Visitors
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pedrosimao.pedrosimao)
