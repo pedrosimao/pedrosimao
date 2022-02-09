@@ -7,20 +7,17 @@
 
 My name is Pedro Simão and I'm a software developer/ Fullstack / Web3 engineer. I was born in Rio de Janeiro, living in Paris and currently working as a freelancer developer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-<!-- ## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![npm type definitions](https://img.shields.io/npm/types/typescript)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Open Source
 
@@ -30,11 +27,16 @@ Lately I decided to start contributing more. I will start sharing code that I us
 
 Some code I have made public lately:
 
+<a href="https://github.com/PedroSimao/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroSimao&repo=quid_front&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
 <!-- BLOG-POST-LIST:START -->
-- [Creating Beautiful Tracebacks with Python&#39;s Exception Hooks](https://bit.ly/3IRD7IK)
+<!-- - [Creating Beautiful Tracebacks with Python&#39;s Exception Hooks](https://bit.ly/3IRD7IK)
 - [Building GitHub Apps with Golang](https://bit.ly/3A3B69t)
 - [Profiling and Analyzing Performance of Python Programs](https://bit.ly/31lKCYA)
-- [Improving Application Availability with Pod Readiness Gates](https://bit.ly/30uviIM)
+- [Improving Application Availability with Pod Readiness Gates](https://bit.ly/30uviIM) -->
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
@@ -44,16 +46,7 @@ Some code I have made public lately:
 </a>
 <a href="https://github.com/PedroSimao/PedroSimao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroSimao&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pedro's GitHub Stats" />
-</a>
-
-<a href="https://github.com/PedroSimao/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroSimao&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/PedroSimao/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroSimao&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>  
 
 <!-- links to social media icons -->
 
