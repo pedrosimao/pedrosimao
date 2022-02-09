@@ -3,9 +3,9 @@
 <!-- Todo: Add a Header in the Future -->
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Pedro Simão and I'm a software developer/ Fullstack / Web3 engineer. I was born in Rio de Janeiro, living in Paris and currently working as a freelancer developer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Pedro Simão and I'm a software developer / fullstack / web3 engineer. I was born in Rio de Janeiro, living in Paris and currently working as a freelancer developer for companies all around. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac_OS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -13,28 +13,48 @@ My name is Pedro Simão and I'm a software developer/ Fullstack / Web3 engineer.
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 
 
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Realm.JS-informational?style=flat&logo=realm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
+
+#### Javascript world
+![](https://img.shields.io/badge/Lib-Node.JS-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-React.JS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Next.JS-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Styled_Components-informational?style=flat&logo=styledcomponents&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Emotion-informational?style=flat&logo=emotion&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-React_Testing_Library-informational?style=flat&logo=reacttestinglibrary&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Mongoose-informational?style=flat&logo=mongoose&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2bbc8a)
+
+
+#### Infrastructure
+![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Scaleway-informational?style=flat&logo=scaleway&logoColor=white&color=2bbc8a)
 
 <!-- ![npm type definitions](https://img.shields.io/npm/types/typescript) -->
 
 ## &#x270d; Open Source
 
-I have mainly been coding for closed source projects (privaty companies, start-ups and so on) during the last 5 years.
-Most of my participations on Github open-source projects comes from pinpointing some issues, or trying to contribute to projects I need to use for my freelancing jobs.
+I have mainly been coding for closed source projects (privaty companies, start-ups and so on) since 2016.
+Most of my participations on Github open-source projects comes from identifying issues, or trying to contribute to projects I depend on in my day-to-day freelance jobs.
+
 Lately I decided to start contributing more. I will start sharing code that I use to get new projects started and so on.
 
 Some code I have made public lately:
@@ -43,13 +63,6 @@ Some code I have made public lately:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroSimao&repo=quid_front&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Creating Beautiful Tracebacks with Python&#39;s Exception Hooks](https://bit.ly/3IRD7IK)
-- [Building GitHub Apps with Golang](https://bit.ly/3A3B69t)
-- [Profiling and Analyzing Performance of Python Programs](https://bit.ly/31lKCYA)
-- [Improving Application Availability with Pod Readiness Gates](https://bit.ly/30uviIM) -->
-<!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
 
