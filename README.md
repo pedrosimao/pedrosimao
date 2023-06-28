@@ -55,10 +55,6 @@ Lately I decided to start contributing more. I will start sharing code that I us
 
 Some code I have made public lately:
 
-<a href="https://github.com/PedroSimao/quid_front">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroSimao&repo=quid_front&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 <a href="https://github.com/PedroSimao/react-startup-starter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroSimao&repo=react-startup-starter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
