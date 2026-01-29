@@ -22,6 +22,7 @@ My name is Pedro Simão and I'm a fullstack software developer / engineer. I was
 ![](https://img.shields.io/badge/Lib-Node.JS-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-React.JS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Vue.JS-informational?style=flat&logo=vue&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Next.JS-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-React_Testing_Library-informational?style=flat&logo=reacttestinglibrary&logoColor=white&color=2bbc8a)
