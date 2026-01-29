@@ -8,18 +8,14 @@
 My name is Pedro Simão and I'm a fullstack software developer / engineer. I was born in Rio de Janeiro, I lived in Paris for 12 years and currently working remotely . You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Mac_OS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a) <br/>
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a) <br/>
+![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=c&logoColor=white&color=2bbc8a) <br/>
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-Realm.JS-informational?style=flat&logo=realm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 
 #### Javascript world
@@ -27,13 +23,8 @@ My name is Pedro Simão and I'm a fullstack software developer / engineer. I was
 ![](https://img.shields.io/badge/Lib-React.JS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Next.JS-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-Styled_Components-informational?style=flat&logo=styledcomponents&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-Emotion-informational?style=flat&logo=emotion&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-React_Testing_Library-informational?style=flat&logo=reacttestinglibrary&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-Mongoose-informational?style=flat&logo=mongoose&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2bbc8a)
 
 
