@@ -83,6 +83,6 @@ https://github.com/pedrosimao/alpaca-cria/
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 
-## Visitors
+<!-- ## Visitors -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pedrosimao.pedrosimao)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=pedrosimao.pedrosimao) -->
