@@ -5,7 +5,7 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Pedro Simão and I'm a fullstack software developer / engineer. I was born in Rio de Janeiro, I lived in Paris for 12 years and currently working remotely. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Pedro Simão and I'm a fullstack software developer / engineer and I have done quite a lot of mobile too (mostly React Native). I was born in Rio de Janeiro, I lived in Paris for 12 years and currently working remotely. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
