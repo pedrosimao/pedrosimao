@@ -5,7 +5,7 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Pedro Simão and I'm a fullstack software developer / engineer. I was born in Rio de Janeiro, I lived in Paris for 12 years and currently working remotely . You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Pedro Simão and I'm a fullstack software developer / engineer. I was born in Rio de Janeiro, I lived in Paris for 12 years and currently working remotely. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
@@ -40,18 +40,18 @@ My name is Pedro Simão and I'm a fullstack software developer / engineer. I was
 
 ## &#x270d; Open Source
 
-I have mainly been coding for closed source projects (privaty companies, start-ups and so on) since 2016.
-Most of my participations on Github open-source projects comes from identifying issues, or trying to contribute to projects I depend on in my day-to-day freelance jobs.
+I have mainly been coding for closed source projects (private companies, start-ups and so on) since 2016.
+On my free time, I love participating on hackathons eventually contribute to open-source projects.
 
-Lately I decided to start contributing more. I will start sharing code that I use to get new projects started and so on.
-
-Some code I have made public lately:
+Some code I have made public, recently:
 
 https://github.com/pedrosimao/alpaca-cria/
 
+<!--
 <a href="https://github.com/PedroSimao/alpaca-cria">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrosimao&repo=alpaca-cria&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+-->
 
 <!-- links to social media icons -->
 
